@@ -5,6 +5,8 @@ public class test {
 
     public static test getInstance() {
         return ourInstance;
+
+
     }
 
     private test() {
